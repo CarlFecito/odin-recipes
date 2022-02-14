@@ -1,3 +1,3 @@
 # odin-recipes
 
-Links o recipies
+Links to recipies
